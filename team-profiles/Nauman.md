@@ -1,5 +1,3 @@
 # Nauman
-
-Hey, this is Nauman
-
-No fun facts here :)
+**Role:** I am a developer
+**Fun Fact:** :(
